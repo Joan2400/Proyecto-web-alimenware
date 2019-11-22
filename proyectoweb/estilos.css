@@ -1,0 +1,68 @@
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color: #333;
+}
+
+li {
+  float: left;
+}
+
+li a {
+  display: block;
+  color: white;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+}
+
+th{
+	text-align: center;
+}
+
+#cabecera{
+	text-align: center;
+	padding: 5px;
+}
+#menu{
+
+
+}
+#contenido{
+	width: 680px;
+	height: 600px;
+	padding: 10px;
+	background-color: orange;
+	text-align: justify;
+}
+#footer{
+	color: black;
+	text-align: center;
+	padding: 5px;
+	border-top: 1px solid orange;
+	border-bottom: 1px solid orange;
+	background-color: orange;
+}
+#cabecera img{
+	border: 0;
+}
+
+#menu a:hover{
+	color: green;
+	text-decoration: none;
+	border: 1px solid green;
+	background-color: white;
+}
+a{
+color: green;
+text-decoration: underline;
+}
+
+#pagina{
+	background-color: orange;
+
+}
+
+
